@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72633927352",
+    "firebase_url": "https://projectsm5-fa611.firebaseio.com",
+    "project_id": "projectsm5-fa611",
+    "storage_bucket": "projectsm5-fa611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72633927352:android:12aa9c5594e44d6a05564d",
+        "android_client_info": {
+          "package_name": "com.project.aplikasi_jual_dekor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72633927352-gif837icq50hv6u4s468h8cdtg9v8sm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18s0gRrdXxZ2Kv9miiJSZeLVJpcr7iWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72633927352-gif837icq50hv6u4s468h8cdtg9v8sm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
